@@ -1,42 +1,28 @@
-# SuperStore Sales Dashboard in Excel 📊
-An interactive and insightful sales dashboard created in Microsoft Excel, designed to visualize key sales metrics, track trends, and aid business decision-making.
+# Used Cars
+A Data Analysis Project.
 
-## Overview
-### This project includes:
+## About Dataset
+### Context:
 
-- Interactive Filters: Filter sales data by category, region, year, and quarter.
-- Monthly & Quarterly Trends: Identify sales trends over time.
-- Segment & Regional Analysis: Compare performance across customer segments and regions.
-- Customer Insights: Highlight top customers to prioritize retention efforts.
+Craigslist is the world's largest collection of used vehicles for sale, yet it's very difficult to collect all of them in the same place. I built a scraper for a school project and expanded upon it later to create this dataset which includes every used vehicle entry within the United States on Craigslist.
+
+### Content:
+
+This data is scraped every few months, it contains most all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories. For ML projects, consider feature engineering on location columns such as long/lat. For previous listings, check older versions of the dataset.
 
 ### DataSet Used:
-- <a href="https://github.com/MohamedMarawany/Sales-Dashboard-Excel/blob/main/SuperStore%20Dashboard.xlsx">Excel</a>
-- <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final">Kaggle</a>
+- <a href="[https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data)">Kaggle</a>
 
 ### Files
-- excel/SuperStore Dashboard.xlsx - The main Excel file containing the sales dashboard.
-- assets/Dashboard.png - A snapshot of the dashboard for quick reference.
+- [excel/SuperStore Dashboard.xlsx](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data) - The main Notebook file containing the Analysis Code.
+- [assets/Dashboard.png](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data) - A Text File Explain The Project Requirements.
 
 ### How to Use
-1. Download the Excel file from the Excel folder.
-2. Open the file in Excel and explore the interactive filters.
-3. Check out the charts and graphs to understand key sales insights.
-
-## Dashboard Preview
-
-### Features
-- Total Sales, Profit, and Quantity Metrics: Quickly see overall performance at a glance.
-- Sales Trends: View monthly, quarterly, and yearly trends.
-- Segment Analysis: Breakdown by category and customer segment.
-- Regional Performance: Sales comparison across different regions.
-
-- Dashboard Interaction <a href="https://github.com/MohamedMarawany/Sales-Dashboard-Excel/blob/main/Dashboard.png">View Dashboard</a>
-
-### Dashboard
-![Dashboard](https://github.com/user-attachments/assets/0b46b368-c73a-4354-afff-0d56dff6f5bd)
+1. Download the Data From Kaggle.
+2. Start Analysis Using Python
 
 ### Requirements
-- Microsoft Excel: The dashboard uses pivot tables and slicers, so Excel 2016 or later is recommended.
+- Understanding Data Analysis Using Python
 
 ### License
 This project is open-source and available under the MIT License.
