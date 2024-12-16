@@ -14,8 +14,8 @@ This data is scraped every few months, it contains most all relevant information
 - <a href="[https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data)">Kaggle</a>
 
 ### Files
-- [excel/SuperStore Dashboard.xlsx](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data) - The main Notebook file containing the Analysis Code.
-- [assets/Dashboard.png](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data) - A Text File Explain The Project Requirements.
+- used-cars-eda.ipynb - The main Notebook file containing the Analysis Code.
+- Explaination.txt - A Text File Explain The Project Requirements.
 
 ### How to Use
 1. Download the Data From Kaggle.
