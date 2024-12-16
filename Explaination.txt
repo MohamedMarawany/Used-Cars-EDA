@@ -1,0 +1,14 @@
+Deliverables:
+- Download the data from Kaggle using the given link
+- Extract the data
+- Assess the data and write down in the notebook as much as issues found as possible
+- Clean the data
+- Based on your findings and insights, write 6 to 12 business questions and answer them in code
+
+Note: you can find a GitHub link below that will be helpful guide to you when doing the project
+
+
+Data: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data
+
+
+https://github.com/Mohamed2bdelaziz/Netflix_EDA/blob/main/Netflix__EDA.ipynb
