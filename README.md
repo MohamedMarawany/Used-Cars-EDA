@@ -11,7 +11,7 @@ Craigslist is the world's largest collection of used vehicles for sale, yet it's
 This data is scraped every few months, it contains most all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories. For ML projects, consider feature engineering on location columns such as long/lat. For previous listings, check older versions of the dataset.
 
 ### DataSet Used:
-- <a href="[https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data)">Kaggle</a>
+- <a href="https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data">Kaggle</a>
 
 ### Files
 - used-cars-eda.ipynb - The main Notebook file containing the Analysis Code.
